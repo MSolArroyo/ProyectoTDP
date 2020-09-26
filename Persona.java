@@ -8,7 +8,9 @@ public Persona(String name)
 
 public String getName()
 {
+
      return (name+"Holaaaaaaaa");
+
 }
 
 public void setName(String name)
